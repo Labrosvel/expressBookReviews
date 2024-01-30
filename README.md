@@ -17,3 +17,5 @@ As is the case with most software development projects, different people in the 
 
 I complete the project by forking the skeleton code into my own repo, clone it locally into my development environment, and develop the code further to implement the CRUD capabilities listed above as HTTP methods in my Express server and test them using Postman. I also implement Session and JWT authentication to allow only logged in users to perform certain operations.
 
+Furthermore I enhanced my code using Promises, Callbacks or Async/Await functions to allow multiple users to interact with the application simultaneously and not have to wait for each other’s operations to complete.
+
