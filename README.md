@@ -23,5 +23,13 @@ Furthermore I enhance my code using Promises, Callbacks or Async/Await functions
 1. Forked the Git repository to have the server side application code I needed to start
 2. npm install the necessary packages and Postman Login to test the API endpoints
 3. Implemented Authentication for using the Book Review application
-4. Access the book review application as general purpose user and register user
+4. Accessed the book review application as general purpose user and register user
 5. Used Async/Await - Promises with Axios in Node.js for each of the four CRUD Operations
+
+# Book Review Application
+In this project, I built a server-side online book review application and integrated it with a secure REST API server which used authentication at the session level using JWT. I then tested my application using Async-Await functions.
+
+# Objectives
+1. Create APIs and perform CRUD operations on an Express server using Session & JWT authentication.
+2. Use Async/Await or Promises with Axios in Node.js.
+3. Create REST API endpoints and test them using Postman.
