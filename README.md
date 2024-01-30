@@ -20,11 +20,11 @@ I complete the project by forking the skeleton code into my own repo, clone it l
 Furthermore I enhance my code using Promises, Callbacks or Async/Await functions to allow multiple users to interact with the application simultaneously and not have to wait for each other’s operations to complete.
 
 # Project Breakdown
-1. Forked the Git repository to have the server side application code I needed to start
-2. npm install the necessary packages and Postman Login to test the API endpoints
-3. Implemented Authentication for using the Book Review application
-4. Accessed the book review application as general purpose user and register user
-5. Used Async/Await - Promises with Axios in Node.js for each of the four CRUD Operations
+* Forked the Git repository to have the server side application code I needed to start
+* npm install the necessary packages and Postman Login to test the API endpoints
+* Implemented Authentication for using the Book Review application
+* Accessed the book review application as general purpose user and register user
+* Used Async/Await - Promises with Axios in Node.js for each of the four CRUD Operations
 
 # Book Review Application
 In this project, I built a server-side online book review application and integrated it with a secure REST API server which used authentication at the session level using JWT. I then tested my application using Async-Await functions.
