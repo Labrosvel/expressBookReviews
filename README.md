@@ -30,6 +30,6 @@ Furthermore I enhance my code using Promises, Callbacks or Async/Await functions
 In this project, I built a server-side online book review application and integrated it with a secure REST API server which used authentication at the session level using JWT. I then tested my application using Async-Await functions.
 
 # Objectives
-1. Create APIs and perform CRUD operations on an Express server using Session & JWT authentication.
-2. Use Async/Await or Promises with Axios in Node.js.
-3. Create REST API endpoints and test them using Postman.
+* Create APIs and perform CRUD operations on an Express server using Session & JWT authentication.
+* Use Async/Await or Promises with Axios in Node.js.
+* Create REST API endpoints and test them using Postman.
